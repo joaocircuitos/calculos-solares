@@ -292,7 +292,7 @@ export default function DynamicCableTable() {
                             {showDUTotal ? <Eye className="h-4 w-4 mr-1" /> : <EyeOff className="h-4 w-4 mr-1" />}
                             DU Total
                         </Button>
-                        <Button onClick={addRow} size="sm" variant="outline" className="hidden sm:flex flex-1 sm:flex-none">
+                        <Button onClick={addRow} size="sm" variant="outline" className="hidden md:flex flex-1 md:flex-none">
                             <Plus className="h-4 w-4 mr-1" />
                             Adicionar Linha
                         </Button>
@@ -302,6 +302,14 @@ export default function DynamicCableTable() {
             <CardContent>
                 {/* Mobile Layout */}
                 <div className="block md:hidden space-y-4">
+                    {/* Botão Adicionar Linha para Mobile */}
+                    <div className="flex justify-center mb-4">
+                        <Button onClick={addRow} size="lg" className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3">
+                            <Plus className="h-5 w-5 mr-2" />
+                            Adicionar Circuito
+                        </Button>
+                    </div>
+                    
                     {rows.map((row, index) => (
                         <div key={row.id} className="bg-white border border-neutral-300 rounded-lg p-4 shadow-sm">
                             <div className="flex justify-between items-center mb-3">
