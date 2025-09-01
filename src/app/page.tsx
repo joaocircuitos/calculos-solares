@@ -4,10 +4,10 @@ import HeroSlider from "@/components/home/HeroSlider";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 export const metadata: Metadata = {
-  title: "Projeto Circuitos - Ferramentas Profissionais de Engenharia Elétrica",
+  title: "Calculos Solares - Ferramentas Profissionais de Engenharia Elétrica",
   description: "Plataforma profissional com ferramentas especializadas para dimensionamento de cabos elétricos conforme RTIEBT e cálculos precisos de sombras em sistemas fotovoltaicos.",
   openGraph: {
-    title: "Projeto Circuitos - Ferramentas de Engenharia Elétrica",
+    title: "Calculos Solares - Ferramentas de Engenharia Elétrica",
     description: "Plataforma profissional com ferramentas especializadas para engenheiros eletrotécnicos",
   },
 };
@@ -22,7 +22,7 @@ export default function Home() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebApplication",
-            "name": "Projeto Circuitos",
+            "name": "Calculos Solares",
             "description": "Ferramentas profissionais para dimensionamento de cabos elétricos e cálculos de sombras",
             "url": "https://calculos-solares.vercel.app",
             "applicationCategory": "EngineeringApplication",
@@ -135,7 +135,7 @@ export default function Home() {
           {/* Seção sobre a empresa */}
           <div className="mt-16 text-center">
             <h2 className="text-2xl font-bold text-neutral-900 mb-4">
-              Sobre o Projeto Circuitos
+              Sobre o Calculos Solares
             </h2>
             <p className="text-neutral-600 max-w-3xl mx-auto">
               Desenvolvido pela <strong>Circuitos Energy Solutions</strong>, esta plataforma oferece

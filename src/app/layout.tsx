@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Projeto Circuitos - Ferramentas Profissionais de Engenharia Elétrica",
+      title: "Calculos Solares - Ferramentas Profissionais de Engenharia Elétrica",
   description: "Plataforma profissional para dimensionamento de cabos elétricos conforme RTIEBT e cálculos precisos de sombras em sistemas fotovoltaicos. Ferramentas essenciais para engenheiros eletrotécnicos.",
   keywords: [
     "dimensionamento de cabos",
@@ -42,10 +42,10 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Projeto Circuitos - Ferramentas de Engenharia Elétrica",
+    title: "Calculos Solares - Ferramentas de Engenharia Elétrica",
     description: "Dimensionamento profissional de cabos elétricos e cálculos de sombras para sistemas fotovoltaicos",
     url: "https://calculos-solares.vercel.app",
-    siteName: "Projeto Circuitos",
+    siteName: "Calculos Solares",
     locale: "pt_PT",
     type: "website",
     images: [
@@ -53,13 +53,13 @@ export const metadata: Metadata = {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Projeto Circuitos - Ferramentas de Engenharia Elétrica",
+        alt: "Calculos Solares - Ferramentas de Engenharia Elétrica",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Projeto Circuitos - Ferramentas de Engenharia Elétrica",
+    title: "Calculos Solares - Ferramentas de Engenharia Elétrica",
     description: "Dimensionamento profissional de cabos elétricos e cálculos de sombras para sistemas fotovoltaicos",
     images: ["/twitter-image.jpg"],
   },

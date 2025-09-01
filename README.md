@@ -1,8 +1,8 @@
-# 🏗️ Projeto Circuitos - Ferramentas de Engenharia Elétrica
+# 🏗️ Calculos Solares - Ferramentas de Engenharia Elétrica
 
 ## 📋 Descrição
 
-O **Projeto Circuitos** é uma aplicação web profissional desenvolvida para engenheiros e técnicos de engenharia elétrica, oferecendo ferramentas especializadas para dimensionamento de cabos e cálculos de sombras em instalações fotovoltaicas.
+O **Calculos Solares** é uma aplicação web profissional desenvolvida para engenheiros e técnicos de engenharia elétrica, oferecendo ferramentas especializadas para dimensionamento de cabos e cálculos de sombras em instalações fotovoltaicas.
 
 ## ✨ Funcionalidades Principais
 

@@ -15,7 +15,7 @@ import DynamicCableTable from "@/features/cabos/DynamicCableTable";
 import RTIEBTTables from "@/components/tables/RTIEBTTables";
 
 export const metadata: Metadata = {
-    title: "Dimensionamento de Cabos Elétricos - RTIEBT | Projeto Circuitos",
+    title: "Dimensionamento de Cabos Elétricos - RTIEBT | Calculos Solares",
     description: "Ferramenta profissional para dimensionamento de cabos elétricos conforme regulamentação RTIEBT. Calcule automaticamente secções, quedas de tensão e valide condições de segurança.",
     keywords: [
         "dimensionamento de cabos",

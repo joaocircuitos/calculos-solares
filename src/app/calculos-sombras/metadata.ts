@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Cálculos de Sombras Fotovoltaicas | Projeto Circuitos",
+  title: "Cálculos de Sombras Fotovoltaicas | Calculos Solares",
     description: "Ferramenta especializada para cálculo de sombras em sistemas fotovoltaicos. Determine distâncias ótimas entre fileiras de painéis solares e minimize perdas por sombreamento.",
     keywords: [
         "cálculos de sombras",

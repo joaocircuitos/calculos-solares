@@ -17,7 +17,7 @@ export function Footer() {
                             <div className="w-8 h-8 bg-neutral-900 rounded-md flex items-center justify-center">
                                 <span className="text-white text-sm font-bold">PC</span>
                             </div>
-                            <span className="font-bold text-lg text-neutral-900">Projeto Circuitos</span>
+                            <span className="font-bold text-lg text-neutral-900">Calculos Solares</span>
                         </div>
                         <p className="text-sm text-neutral-600 max-w-xs">
                             Ferramentas profissionais para engenharia elétrica e sistemas fotovoltaicos.

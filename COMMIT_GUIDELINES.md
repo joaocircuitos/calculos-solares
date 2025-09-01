@@ -1,4 +1,4 @@
-# 📝 Diretrizes de Commits - Projeto Circuitos
+# 📝 Diretrizes de Commits - Calculos Solares
 
 ## 🎯 Convenção de Commits Semânticos
 

@@ -37,7 +37,7 @@ export function Header() {
                         <div className="w-7 h-7 bg-neutral-900 rounded-md flex items-center justify-center">
                             <span className="text-white text-sm font-bold">PC</span>
                         </div>
-                        <span className="font-semibold tracking-tight">Projeto Circuitos</span>
+                        <span className="font-semibold tracking-tight">Calculos Solares</span>
                     </Link>
 
                     {/* Desktop navigation */}
