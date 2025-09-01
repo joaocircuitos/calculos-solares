@@ -39,7 +39,7 @@ O **Projeto Circuitos** é uma aplicação web profissional desenvolvida para en
 git clone [URL_DO_REPOSITORIO]
 
 # Entrar na pasta do projeto
-cd projeto-circuitos
+cd calculos-solares
 
 # Instalar dependências
 npm install
@@ -60,7 +60,7 @@ npm start
 ## 📁 Estrutura do Projeto
 
 ```
-projeto-circuitos/
+calculos-solares/
 ├── src/
 │   ├── app/                    # Páginas Next.js
 │   │   ├── calculos-sombras/   # Página de cálculos de sombras

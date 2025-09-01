@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
             userAgent: '*',
             allow: '/',
         },
-        sitemap: 'https://projeto-circuitos.vercel.app/sitemap.xml',
+        sitemap: 'https://calculos-solares.vercel.app/sitemap.xml',
     }
 }
 

@@ -37,14 +37,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://projeto-circuitos.vercel.app'),
+  metadataBase: new URL('https://calculos-solares.vercel.app'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: "Projeto Circuitos - Ferramentas de Engenharia Elétrica",
     description: "Dimensionamento profissional de cabos elétricos e cálculos de sombras para sistemas fotovoltaicos",
-    url: "https://projeto-circuitos.vercel.app",
+    url: "https://calculos-solares.vercel.app",
     siteName: "Projeto Circuitos",
     locale: "pt_PT",
     type: "website",

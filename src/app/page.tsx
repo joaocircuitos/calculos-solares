@@ -24,7 +24,7 @@ export default function Home() {
             "@type": "WebApplication",
             "name": "Projeto Circuitos",
             "description": "Ferramentas profissionais para dimensionamento de cabos elétricos e cálculos de sombras",
-            "url": "https://projeto-circuitos.vercel.app",
+            "url": "https://calculos-solares.vercel.app",
             "applicationCategory": "EngineeringApplication",
             "operatingSystem": "Web Browser",
             "offers": {
